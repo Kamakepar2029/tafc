@@ -6,8 +6,8 @@ TAFC - TargetFuelCapture
 1. Скачайте релиз приложения.
 2. Распакуйте в любое место на компьютере.
 3. Запустите файл panel.exe.
-![Panel.exe](./second.JPG)
 4. Скройте командную строку.
+![Panel.exe](./second.JPG)
 5. Запустите файл firstversion.exe.
 ![Firstversion.exe](./first.jpg)
 6. Откроется терминал. В нем спросят какую камеру вы хотите использовать.
