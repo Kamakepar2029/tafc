@@ -6,7 +6,7 @@ TAFC - TargetFuelCapture
 1. Скачайте релиз приложения.
 2. Распакуйте в любое место на компьютере.
 3. Запустите файл panel.exe.
-![Panel.exe](./second.jpg)
+![Panel.exe](./second.JPG)
 4. Скройте командную строку.
 5. Запустите файл firstversion.exe.
 ![Firstversion.exe](./first.jpg)
